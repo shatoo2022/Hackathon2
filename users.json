@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Johnte Fresh",
+        "email": "text@example.com",
+        "password": "scrypt:32768:8:1$gacTaUj9hZHIUuGG$dd1518e1c7f398f3818f02d81935171586c4df13d2c41dc5eee1e0f8b2fab0d13e5c8402c19d9c5b130196aae50ada3f3415ca97ee65792a714fd85d8e65425a"
+    }
+]

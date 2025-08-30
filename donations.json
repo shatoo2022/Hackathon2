@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Amira",
+        "foodItem": "Rice",
+        "quantity": "32kg",
+        "location": "gombe",
+        "description": "this is a remaining food from the stock"
+    },
+    {
+        "name": "Mr Johnte",
+        "foodItem": "Tomatoes",
+        "quantity": "2 baskets",
+        "location": "zone 2, wuse market, Abuja",
+        "description": "this is from a farmer that is welling to donate."
+    },
+    {
+        "name": "Kulikuli Restaurants",
+        "foodItem": "Un-Sold  Food",
+        "quantity": "4 Boxes",
+        "location": "Kulikuli Restaurants hospital road.",
+        "description": "Remaining Food from the Restaurant."
+    }
+]
